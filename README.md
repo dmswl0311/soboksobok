@@ -1,9 +1,12 @@
-# 복지 혜택 추천 서비스 '소복소복'
+<h1 align="center">복지 혜택 추천 서비스 '소복소복'</h1>
 
+<p align="center">
+    <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksoboklogo.png?raw=true" height="150"/>
+</p>
 개발기간:  22.02.21~22.04.08 (총 6주)<br/>
 
-## 개발 배경
-### 작성중..
+## 서비스 소개
+소복소복은 자신이 어떤 복지 혜택을 받을 수 있는지 잘 모르고, 궁금해하는 분들을 위해 자신의 상황에 맞는 복지 혜택을 추천해주는 서비스입니다.
 
 ## **팀원 소개 및 역할**
 <table>
@@ -95,9 +98,9 @@
         - React, Redux, styled-components
 </details>
 
-## 기술 스택
+## 주요 기술 스택
 ### FE
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ### BE
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
@@ -110,13 +113,12 @@
 ### 협업 툴
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br/>
 
-## 서비스 설명 및 주요 기능
+## 주요 기능
+<p align="center">
+    <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksobok1.gif?raw=true" width="600px" />
+    <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksobok2.gif?raw=true" width="600px" />
+</p>
 
-- [와이어프레임](https://www.figma.com/file/FdpoWZg9VPVXUcBIPhxGZp/SSAFY-6%EA%B8%B0-%ED%8A%B9%ED%99%94PJT-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84)
-
-### 작성중..
-
-----
 ## 사용법
 ### FrontEnd
 
