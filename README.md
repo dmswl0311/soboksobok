@@ -4,6 +4,8 @@
     <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksoboklogo.png?raw=true" height="150"/>
 </p>
 개발기간:  22.02.21~22.04.08 (총 6주)<br/>
+<br/>
+🏆 삼성 청년 SW아카데미 6기 특화프로젝트(트랙:빅데이터 추천) 우수상 (1등)
 
 ## 서비스 소개
 소복소복은 자신이 어떤 복지 혜택을 받을 수 있는지 잘 모르고, 궁금해하는 분들을 위해 자신의 상황에 맞는 복지 혜택을 추천해주는 서비스입니다.
