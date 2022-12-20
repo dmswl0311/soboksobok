@@ -190,7 +190,8 @@ git commit -m “[Jira 이슈 번호] 접두어: 커밋메시지”
 git commit -m "[S06P12C203-85] chore: Jira 연동 테스트"
 ```
 
-## 아키텍처 및 ERD
+## 아키텍처
 
-#### 작성중..
-
+<p align="center">
+    <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.jpeg" width="800px" />
+</p>
