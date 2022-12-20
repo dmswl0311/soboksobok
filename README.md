@@ -116,6 +116,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br/>
 
 ## 주요 기능
+- 카카오 소셜 로그인
+- 인기있는 복지혜택 추천
+- 복지혜택 추천
+    - 나에게 맞춤 복지 추천 
+    - 선택한 복지와 다른 유사한 복지 추천
+- 복지혜택 검색 및, 인기 검색어
+- QNA 게시판
+- 간단 사용 설명서
+- 복지 즐겨찾기 및 사용중 표시
+
 <p align="center">
     <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksobok1.gif?raw=true" width="600px" />
     <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksobok2.gif?raw=true" width="600px" />
