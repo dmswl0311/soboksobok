@@ -131,6 +131,19 @@
     <img src="https://github.com/dmswl0311/soboksobok/blob/master/etc/img/soboksobok2.gif?raw=true" width="600px" />
 </p>
 
+## 추천 알고리즘
+### 유저 X 복지
+1. DBSCAN을 이용해 복지 클러스터링, 그룹화
+2. 유저의 특성과 각각의 복지 그룹과의 특성을 코사인 유사도와 자카드 유사도를 통해 계산
+3. 유저에게 유저와 유사한 그룹에 있는 복지 혜택을 추천 
+
+### 복지 X 복지
+1. 복지의 내용과 특성을 명사로 자연어 처리(koNLPy)해 TF-IDF 적용
+2. 복지와 복지 사이의 유사도 계산
+3. 현재 복지와 유사한 복지 추천
+
+<br>
+
 ## 사용법
 ### FrontEnd
 
